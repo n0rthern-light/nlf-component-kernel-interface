@@ -1,0 +1,13 @@
+{
+    "name": "nlf/kernel-interface",
+    "description": "A shared kernel application interface",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nlf\\Component\\Kernel": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
