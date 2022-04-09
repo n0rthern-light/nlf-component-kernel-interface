@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nlf\\Component\\Kernel": "src/"
+            "Nlf\\Component\\Kernel\\": "src/"
         }
     },
     "minimum-stability": "stable",
